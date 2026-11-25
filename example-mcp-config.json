@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "windows-window-control": {
+      "command": "python",
+      "args": [
+        "-B",
+        "C:/path/to/windows-window-control-mcp/launch_stdio.py"
+      ]
+    }
+  }
+}
